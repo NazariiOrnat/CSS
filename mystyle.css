@@ -5,14 +5,14 @@
     font-family: Arial serif;
 }
 #main{
-    border: 3px dotted green;
-    background-color: red;
-    height: 500px;
-    width: 500px;
-    
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+#main:hover {
+    background-color: blue;
 }
 #second{
-    float: center;
     border: 3px solid green;
     background-color: blue;
     height: 250px;
