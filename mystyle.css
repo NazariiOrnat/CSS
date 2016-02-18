@@ -25,3 +25,7 @@ div p::first-letter {
     color: #ff0000;
     font-size: 20px
 }
+#third{
+    float: right;
+    background: gray;
+}
