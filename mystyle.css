@@ -29,3 +29,7 @@ div p::first-letter {
     float: right;
     background: gray;
 }
+#ul{
+    display:inline;
+}
+    
