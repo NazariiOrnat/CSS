@@ -7,15 +7,15 @@
 #main{
     border: 3px dotted green;
     background-color: red;
-    height: 100px;
-    width: 100px;
+    height: 500px;
+    width: 500px;
     
 }
 #second{
     border: 3px solid green;
     background-color: blue;
-    height: 50px;
-    width: 50px;
+    height: 250px;
+    width: 250px;
 }
 
 
