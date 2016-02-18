@@ -24,3 +24,7 @@ p::first-letter {
     color: #ff0000;
     font-size: 40px;
 }
+div p::first-letter {
+    color: #ff0000;
+    font-size: 20px
+}
