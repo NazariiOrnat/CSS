@@ -33,7 +33,6 @@ div p::first-letter {
     display: inline;
     background-color: orange;
     border: 3px dotted ;
-    border-color: green;
-    padding: 5em;
+    border-color: blue;
 }
     
