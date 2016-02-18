@@ -5,6 +5,8 @@
     font-family: Arial serif;
 }
 #main{
+    height: 100px;
+    width: 100px;
     background-color: green;
     color: white;
     text-align: center;
