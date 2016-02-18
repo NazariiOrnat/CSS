@@ -40,3 +40,7 @@ div p::first-letter {
     height: 300px;
     overflow: scroll;
 }
+#font {
+    font-family: Arial sans-serif;
+    font-size: 100px;
+}
