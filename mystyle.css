@@ -36,7 +36,7 @@ div p::first-letter {
     border-color: blue;
 }
 #four{
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
     overflow: scroll;
 }
