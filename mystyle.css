@@ -14,11 +14,8 @@
 #main:hover {
     background-color: blue;
 }
-#second{
-    border: 3px solid green;
-    background-color: blue;
-    height: 250px;
-    width: 250px;
+#second::first-line{
+    background: blue;
 }
 p::first-letter {
     color: #ff0000;
