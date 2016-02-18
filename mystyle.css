@@ -4,6 +4,12 @@
     font-size: 25px;
     font-family: Arial serif;
 }
-
+#main{
+    border: 3px dotted green;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    
+}
 
 
